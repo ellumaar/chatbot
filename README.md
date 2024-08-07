@@ -1,3 +1,31 @@
+## CHATBOT ##
+
+This is a chatbot user interface that uses OpenAI API to chat with users and answer their questions.
+
+## Installation ##
+
+npm install
+npm run dev
+
+Localhost runs in http://localhost:3000
+
+## Project documentation ##
+
+Kirjelda koodi struktuuri ja miks oled just sellised valikud teinud?
+Kirjelda, kuidas sinu loodud chat-kasutajaliideses on tagatud kasutajasõbralikkus?
+Miks kasutad sellist värviskeemi ja tüpograafiat?
+Miks kasutad just seda disaini lähenemist (puhas CSS või Tailwind või Bootstrap või Material või muu lähenemine, mida eelistad)? 
+Kuidas testiksid automaatselt antud rakendust (võid lisada ka testi, kuid see pole kohustuslik)?
+Millised ohud ja riskid on seotud näidisrakendusega ning mida teeksid nende maandamiseks?
+
+
+## Contact ##
+
+Built by Ellu Maar, ellu.maar@gmail.com
+
+
+
+---- (to delete)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
